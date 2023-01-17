@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 de Henry
+esta es una prueba de como crear un repositorio y como crearlo des githab
